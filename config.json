@@ -1,0 +1,7 @@
+[
+	{
+		"name": "graph-server",
+		"port": 8081,
+		"links": []
+	}
+]
